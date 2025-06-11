@@ -1,0 +1,4 @@
+Juan,Garcia,Cardiologia
+David,Suarez,General
+Andres,Garza,Optometria
+Beto,Veintimilla,Cardiologia

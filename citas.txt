@@ -1,0 +1,30 @@
+Paciente: Jose
+Médico: Juan Garcia (Cardiologia)
+Fecha: 2024-12-06
+Hora: 2:00 PM
+-------------------------------
+Paciente: Manuel
+Médico: Andres Garza (Optometria)
+Fecha: 2024-12-07
+Hora: 2:00 PM
+-------------------------------
+Paciente: Juan Padilla
+Médico: Andres Garza (Optometria)
+Fecha: 2024-12-07
+Hora: 10:00 AM
+-------------------------------
+Paciente: Juan Padilla
+Médico: David Suarez (General)
+Fecha: 2024-12-08
+Hora: 10:00 AM
+-------------------------------
+Paciente: Juanse
+Médico: Andres Garza (Optometria)
+Fecha: 2024-12-06
+Hora: 10:00 AM
+-------------------------------
+Paciente: Jossue Gallardo
+Médico: Juan Garcia (Cardiologia)
+Fecha: 2024-12-06
+Hora: 10:00 AM
+-------------------------------
